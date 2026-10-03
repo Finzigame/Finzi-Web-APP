@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+.expo-shared/
+.idea/
+.env
+.superpowers/
+docs/
+.gstack/
+.claude
+.agent
+
+# macOS metadata
+.DS_Store
+
+# Build outputs
+dist/

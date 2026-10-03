@@ -1,0 +1,10 @@
+node_modules
+.expo
+dist
+.git
+.env
+.idea
+.vscode
+.gstack
+docs
+__tests__

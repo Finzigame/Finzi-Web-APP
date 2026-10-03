@@ -1,0 +1,21 @@
+{
+    "expo":  {
+                 "name":  "Finzi",
+                 "slug":  "finzi",
+                 "version":  "1.0.0",
+                 "userInterfaceStyle":  "light",
+                 "icon":  "./src/assets/icon.png",
+                 "splash":  {
+                                "resizeMode":  "contain",
+                                "backgroundColor":  "#ffffff"
+                            },
+                 "web":  {
+                             "bundler":  "metro",
+                             "output":  "single"
+                         },
+                 "plugins":  [
+                                 "expo-font",
+                                 "expo-video"
+                             ]
+             }
+}
